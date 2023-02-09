@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **JS(React and Angular) or Mobile app(Ionic or ReactNative)**
 
-- 📫 How to reach me **me@sebastianjordan.info**
+- 📫 How to reach me **me@sebastianjordan.com**
 
 - 📄 Know about my experiences [sebastianjordan.com/resume](sebastianjordan.com/resume)
 
