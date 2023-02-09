@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Next.js and tailwind css**
 
-- 👨‍💻 All of my projects are available at [app.sebastianjordan.info](app.sebastianjordan.info)
+- 👨‍💻 All of my projects are available at [sebastianjordan.com](sebastianjordan.com)
 
 - 💬 Ask me about **JS(React and Angular) or Mobile app(Ionic or ReactNative)**
 
 - 📫 How to reach me **me@sebastianjordan.info**
 
-- 📄 Know about my experiences [sebastianjordan.info/resume](sebastianjordan.info/resume)
+- 📄 Know about my experiences [sebastianjordan.com/resume](sebastianjordan.com/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
