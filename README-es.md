@@ -3,29 +3,26 @@
 # <img src="me.jpeg" with="100px" height="100px"> Sebastian Jordan 🇵🇦
 
 <p align="center">
-  <span>English</span> |
-  <a href="#">Español</a>
+   <a href="#">English</a> |
+  <span> Español</span> 
 </p>
 
-<h2 align="center">A passionate frontend developer</h2>
+<h2 align="center">Un frontend apasionado de la web</h2>
 
-### I am a Frontend developer with over 6 years of experience, currently working in the Yappy team at Banco General.
+### Soy un desarrollador Frontend con más de 6 años de experiencia, actualmente trabajo en el equipo de Yappy en Banco General.
 
-
-> my website is [www.sebastianjordan.com](https://www.sebastianjordan.com)
+> mi sitio web es: [www.sebastianjordan.com](https://www.sebastianjordan.com)
 
 - 📄 My resume [www.sebastianjordan.com/resume](https://www.sebastianjordan.com/resume)
 
-<h3 align="left">Email me@sebastianjordan.com</h3>
+<h3 align="left">Mi correo y otras redes: me@sebastianjordan.com</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/sebastianjordan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/sebastianjordan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sebastian-jordan-martinez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sebastian-jordan-martinez/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/sebastianjordan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sebastianjordan1" height="30" width="40" /></a>
 </p>
 
-## Languages and Tools:
-
-<h3 align="left">Frontend </h3>
+<h3 align="left">Frontend: </h3>
 <div>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
