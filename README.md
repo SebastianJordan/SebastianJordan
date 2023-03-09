@@ -1,6 +1,6 @@
 ![preview](bg.jpeg)
 
-# <img src="me.jpeg" with="100px" height="100px"> Sebastian Jordan 🇵🇦
+# Sebastian Jordan 🇵🇦
 
 <p align="center">
   <span>English</span> |
