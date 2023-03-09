@@ -4,7 +4,7 @@
 
 <p align="center">
   <span>English</span> |
-  <a href="#">Español</a>
+  <a href="https://github.com/SebastianJordan/SebastianJordan/blob/master/README-es.md">Español</a>
 </p>
 
 <h2 align="center">A passionate frontend developer</h2>

@@ -3,7 +3,7 @@
 # <img src="me.jpeg" with="100px" height="100px"> Sebastian Jordan 🇵🇦
 
 <p align="center">
-   <a href="#">English</a> |
+   <a href="https://github.com/SebastianJordan/SebastianJordan/blob/master/README.md">English</a> |
   <span> Español</span> 
 </p>
 
