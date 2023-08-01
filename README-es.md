@@ -13,7 +13,7 @@
 
 > mi sitio web es: [www.sebastianjordan.com](https://www.sebastianjordan.com)
 
-- 📄 My resume [www.sebastianjordan.com/resume](https://www.sebastianjordan.com/resume)
+- 📄 My resume [www.sebastianjordan.com/resume](https://www.sebastianjordan.com/resume_es.pdf)
 
 <h3 align="left">Mi correo y otras redes: me@sebastianjordan.com</h3>
 <p align="left">
